@@ -1,0 +1,32 @@
+theme = "awesome-identity"
+baseURL = "https://example.com"
+title = "Awesome Identity for Hugo"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/IMG-8399.jpg"
+  firstname = "Katiso"
+  lastname = "Ledwaba"
+  title = "Self-taught Programmer | Identity & Access Management Practitioner"
+  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
+
+  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  """
+  ## Contacts Configurations
+[params.contacts]
+  email = "katisoledwaba@gmail.com"
+  github = "KatisoTheGreat"
+  twitter = "katiso_thegreat"
+  linkedin = "katiso-ledwaba-73000016a/"
+  instagram = "katiso_thegreat/"
+  stackoverflow = "19310274/katiso-ledwaba"
+  medium = "@ledwabakatiso"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019-2020 Katiso Ledwaba. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
